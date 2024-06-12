@@ -1,16 +1,13 @@
-<font size="+2"><b>MY TOKEN</b></font>
-
+# MY TOKEN
 This project is a Solidity smart contract implementation for creating a custom token on the Ethereum blockchain. It provides functionalities to mint new tokens, transfer tokens between addresses, and burn tokens.
 
-<font size="+1">DESCRIPTION:</font>
+## DESCRIPTION
 
 The Create a Token project allows users to deploy a custom ERC20 token on the Ethereum blockchain. It's suitable for various use cases such as creating utility tokens, security tokens, or governance tokens for decentralized applications (dApps). The smart contract provides methods for minting new tokens, transferring tokens between addresses, and burning tokens.
 
-<font size="+1">GETTING STARTED:</font>
-
+## GETTING STARTED
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
-<font size="+1">Executing program:</font>
-
+### EXECUTING PROGRAM
 1. Open Remix in your web browser.
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
 3. Save the file with a .sol extension (e.g., MyToken.sol).
@@ -48,6 +45,5 @@ contract MyToken {
 }
 ```
 
-<font size="+1">LICENSE:</font>
-
+## LICENSE
 This project is licensed under the MIT License - see the LICENSE.md file for details
