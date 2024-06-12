@@ -1,4 +1,4 @@
-<font size="+2"><b>CREATE A TOKEN</b></font>
+<font size="+2"><b>MY TOKEN</b></font>
 
 This project is a Solidity smart contract implementation for creating a custom token on the Ethereum blockchain. It provides functionalities to mint new tokens, transfer tokens between addresses, and burn tokens.
 
@@ -50,4 +50,4 @@ contract MyToken {
 
 <font size="+1">LICENSE:</font>
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the LICENSE.md file for details
